@@ -4,8 +4,8 @@
     <title>Title of the document</title>
     <style>
       body {
-        -webkit-animation: colorchange 20s infinite;
-        animation: colorchange 20s infinite;
+        -webkit-animation: colorchange 10s infinite;
+        animation: colorchange 10s infinite;
       }
       @-webkit-keyframes colorchange {
         0% {
