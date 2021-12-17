@@ -3,9 +3,12 @@
   <head>
     <title>Title of the document</title>
     <style>
+	h1 {text-align: center;}
+	p {text-align: center;}
+	div {text-align: center;}
       body {
-        -webkit-animation: colorchange 10s infinite;
-        animation: colorchange 10s infinite;
+        -webkit-animation: colorchange 20s infinite;
+        animation: colorchange 20s infinite;
       }
       @-webkit-keyframes colorchange {
         0% {
@@ -44,8 +47,8 @@
     </style>
   </head>
   <body>
-  <p style="color:Green;font-size:30px;">well come to </p>
-  <p style="color:Orange;font-size:50px;">TestYantra Softwere Solution Pvt Ltd </p>
-  <p style="color:Red;font-size:70px;">Bangalore</p>
+    <p style="color:Green;font-size:30px;">well come to </p>
+	<h1 style="color:Orange;font-size:50px;">TestYantra Softwere Solution Pvt Ltd </h1>
+	<div style="color:Red;font-size:70px;">Bangalore</div>
   </body>
 </html>
