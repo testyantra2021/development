@@ -47,8 +47,8 @@
     </style>
   </head>
   <body>
-    <p style="color:Green;font-size:30px;">well come to </p>
+    <p style="color:Yellow;font-size:30px;">well come to </p>
 	<h1 style="color:Orange;font-size:50px;">TestYantra Softwere Solution Pvt Ltd </h1>
-	<div style="color:Red;font-size:70px;">Bangalore</div>
+	<div style="color:Blue;font-size:70px;">Bangalore</div>
   </body>
 </html>
