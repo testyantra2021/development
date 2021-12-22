@@ -48,7 +48,7 @@
   </head>
   <body>
     <h2 style="color:Blue;font-size:30px;">Well Come <br> To </h2>
-	<h1 style="color:Orange;font-size:50px;">TestYantra Softwere Solution Pvt Ltd </h1>
-	<div style="color:Red;font-size:70px;">Bangalore</div>
+	<div style="color:Orange;font-size:50px;">TestYantra Softwere Solution Pvt Ltd </div>
+	<h1 style="color:Red;font-size:70px;">Bangalore</h1>
   </body>
 </html>
