@@ -4,7 +4,7 @@
     <title>Title of the document</title>
     <style>
 	h1 {text-align: center;}
-	p {text-align: center;}
+	h2 {text-align: center;}
 	div {text-align: center;}
       body {
         -webkit-animation: colorchange 20s infinite;
@@ -47,7 +47,7 @@
     </style>
   </head>
   <body>
-    <p style="color:Black;font-size:30px;">well come <br> to </p>
+    <h2 style="color:Blue;font-size:30px;">Well Come <br> To </h2>
 	<h1 style="color:Orange;font-size:50px;">TestYantra Softwere Solution Pvt Ltd </h1>
 	<div style="color:Red;font-size:70px;">Bangalore</div>
   </body>
